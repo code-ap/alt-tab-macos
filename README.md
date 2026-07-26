@@ -1,6 +1,6 @@
 <div align = center>
 
-# AltTab
+# AltTab (reverted to v10.12.0)
 
 [![Screenshot](docs/public/demo/frontpage.jpg)](docs/public/demo/frontpage.jpg)
 
