@@ -55,6 +55,7 @@ jobs:
 #      - run: scripts/replace_environment_variables_in_app.sh
 #      - run: scripts/codesign/setup_ci_master.sh
 #      - run: scripts/run_tests.sh
+      - run: scripts/codesign/setup_ci_pr.sh
       - run: scripts/build_app.sh
 #      - run: scripts/package_and_notarize_release.sh
 #      - run: scripts/upload_symbols_to_appcenter.sh
